@@ -2,8 +2,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-    tabliczka();
-    kolumny(6);
+        System.out.println("hello world");
     }
 
     public static void kolumny(double x) {
