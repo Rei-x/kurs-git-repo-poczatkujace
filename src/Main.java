@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello world");
+        System.out.println("hello my world");
     }
 
     public static void kolumny(double x) {
